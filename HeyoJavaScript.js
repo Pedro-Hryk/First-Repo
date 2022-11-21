@@ -39,5 +39,5 @@ function attendanceCheck(day){
   
 }
 
-console.log(attendanceCheck('Monday'));
+
 
