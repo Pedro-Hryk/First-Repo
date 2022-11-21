@@ -16,26 +16,8 @@ let classRoom = [
                 {"Thursday" : false},
                 {"Friday" : true}
             ]
-    },
-    {
-        "Shoshanna" : [
-                {"Monday" : true},
-                {"Tuesday" : true},
-                {"Wednesday" : false},
-                {"Thursday" : true},
-                {"Friday" : false}
-            ]
-    },
-    {
-        "Jessa" : [
-                {"Monday" : false},
-                {"Tuesday" : false},
-                {"Wednesday" : false},
-                {"Thursday" : false},
-                {"Friday" : true}
-            ]
-    }
-];
+},
+
 
 function attendanceCheck(day){
 
